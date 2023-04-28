@@ -1,4 +1,4 @@
-package com.sist.seoul;
+package Seoul;
 
 /*
  * 	1
@@ -13,6 +13,7 @@ public class SeoulVO {
 	private String name;
 	private String content;
 	private String address;
+	
 	public int getNo() {
 		return no;
 	}

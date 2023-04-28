@@ -1,4 +1,4 @@
-package com.sist.seoul;
+package Seoul;
 
 public class SeoulMain {
 	public static void main(String[] args) {

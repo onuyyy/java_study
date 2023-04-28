@@ -1,4 +1,4 @@
-package com.sist.seoul;
+package Seoul;
 
 import java.io.FileReader;
 import java.lang.reflect.Array;
@@ -8,8 +8,9 @@ import java.util.StringTokenizer;
 
 import com.sist.movie.MovieVO;
 
-public class SeoulSystem {
-	private static ArrayList list = new ArrayList();
+p
+ublic class SeoulSystem {
++
 	
 	static {
 		try {
